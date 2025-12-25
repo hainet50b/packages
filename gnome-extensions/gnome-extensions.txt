@@ -1,0 +1,3 @@
+gTile@vibou
+kimpanel@kde.org
+quick-settings-tweaks@qwreey
